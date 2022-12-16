@@ -13,8 +13,4 @@ Some info about it you should know:
 
 -> The owner isn't an engineer or a people works in Microsoft.
 
-To have the latest updates and news, check out in this repository, 'cause Microsoft doesn't release this yet. It only available for someone knows the link and someone
-
-discovered it. Under every build, there are descriptions what's new, what's fix so read carefully. All the builds will be marked as PRE-RELEASE 'cause it doesn't release
-
-yet. :>
+To have the latest updates and news, check out in this repository, 'cause Microsoft doesn't release this yet. It only available for someone knows the link and someone discovered it. Under every build, there are descriptions what's new, what's fix so read carefully. All the builds will be marked as PRE-RELEASE 'cause it doesn't release yet. :>
